@@ -168,7 +168,7 @@ charger/
 ├── lib/
 │   ├── main.dart                          # Entry: Firebase init + locale + prefs
 │   ├── app.dart                           # MaterialApp + GoRouter
-│   ├── firebase_options.dart              # 🚫 Generated, gitignored
+│   ├── firebase_options.dart              #  Generated, gitignored
 │   │
 │   ├── core/
 │   │   ├── constants/                     # Colors, sizes
@@ -330,7 +330,7 @@ dart pub global activate flutterfire_cli
 
 ## Konfigurasi Firebase
 
-⚠️ **File `lib/firebase_options.dart`, `google-services.json`, dan `GoogleService-Info.plist` tidak di-commit** — Anda perlu generate sendiri.
+ **File `lib/firebase_options.dart`, `google-services.json`, dan `GoogleService-Info.plist` tidak di-commit** — Anda perlu generate sendiri.
 
 ### 1. Buat Firebase Project
 
@@ -347,7 +347,7 @@ dart pub global activate flutterfire_cli
 | **Firestore Database** | Build → Firestore → Create → Region **asia-southeast2** → **Test mode** |
 | **Cloud Messaging** | Auto-aktif |
 
-> ⚠️ Storage di-skip — perlu upgrade Blaze plan.
+>  Storage di-skip — perlu upgrade Blaze plan.
 
 ### 3. Generate Config Files
 
