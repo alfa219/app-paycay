@@ -40,7 +40,7 @@
 
 Aplikasi terhubung ke perangkat **ESP32** (yang membaca sensor PZEM-004T dan mengontrol relay AC) melalui **Firebase Realtime Database** sebagai message broker — menggantikan kebutuhan koneksi Bluetooth atau WiFi direct.
 
-> 💡 **Untuk fase development saat ini, sensor ESP32 disimulasikan langsung di app.** Saat hardware ESP32 siap, simulator tinggal dimatikan dan ESP32 mengambil alih penulisan data sensor ke RTDB — tidak perlu ubah UI.
+>  **Untuk fase development saat ini, sensor ESP32 disimulasikan langsung di app.** Saat hardware ESP32 siap, simulator tinggal dimatikan dan ESP32 mengambil alih penulisan data sensor ke RTDB — tidak perlu ubah UI.
 
 ---
 
