@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"paycay-mobile","appId":"1:159460923094:android:a1c1382554a42e6af4db77","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"paycay-mobile","configurations":{"android":"1:159460923094:android:a1c1382554a42e6af4db77","ios":"1:159460923094:ios:ff34e7ecee601364f4db77"}}}}}}
